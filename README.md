@@ -1,7 +1,7 @@
 
 
 ![Nurdan sahınoglu (1)](https://github.com/nurdan0/nurdan0/assets/77547240/d38f32bf-25ec-48b1-a980-fd5acb92d945)
-![header](https://capsule-render.vercel.app/api?type=wave&color=3A4A51&height=200&section=footer&%20render&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&%20render&fontSize=30)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
