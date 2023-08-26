@@ -5,8 +5,9 @@
 
 
 <h3 align="left">Languages and Tools:                 Connect me:</h3>
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurdansahi̇noglu" height="30" width="40" <a href="https://linkedin.com/in/nurdansahi̇noglu" target="blank"><img align="center"  /></a>
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurdansahi̇noglu" height="30" width="40" 
 </p>
+<a href="https://linkedin.com/in/nurdansahi̇noglu" target="blank"><img align="center"  /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
