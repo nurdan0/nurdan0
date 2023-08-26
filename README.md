@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurdan0&label=Profile%20views&color=0e75b6&style=flat" alt="nurdan0" /> </p>
 
+![Nurdan sahınoglu (1)](https://github.com/nurdan0/nurdan0/assets/77547240/d38f32bf-25ec-48b1-a980-fd5acb92d945)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nurdansahi̇noglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurdansahi̇noglu" height="30" width="40" /></a>
