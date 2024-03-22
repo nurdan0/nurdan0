@@ -1,6 +1,6 @@
 
+![a](https://github.com/nurdan0/nurdan0/assets/77547240/c5c62d3c-bb3b-416f-9e0e-f9bf633cdf49)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=200&section=header&%20render&fontSize=30)
 
 # <h3 align="center">Hi There 🐥</h3>
 
